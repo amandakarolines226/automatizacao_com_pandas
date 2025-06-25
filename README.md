@@ -1,5 +1,6 @@
 # automatizacao_com_pandas
 
+## Este script utiliza Selenium para automatizar
 -Acessa um site de login.
 -Faz login automático com Selenium.
 -Lê uma planilha de produtos (PRODUTOS.csv) com pandas.
