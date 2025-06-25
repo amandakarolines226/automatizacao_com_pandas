@@ -9,7 +9,7 @@
 - Cadastra os produtos no sistema.
 - Fecha o navegador após finalizar tudo.
 
-## Automatiza login e preenchimento de formulário com Selenium e Pandas
+## Automatiza login e preenche formulário com Selenium e Pandas
 - Pandas 
 - Selenium 
 - Python
